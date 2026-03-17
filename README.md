@@ -1,4 +1,10 @@
-# Anant-Unlauncher 🚀
+ <div aling="center">
+   <img src="logo.png"
+     width="150" height="150"  />
+   <h1>Anant-Launcher 🚀</h1>
+   <p><b> Minimalist Android Launcher for Class 7 Math Masters </b></p></div>
+
+   ---
 A minimalist launcher designed for students who are distracted this is a distraction free launcher Designed for Android by Kotlin that focuses on productivity
 
 ## 🎯 Project Goals 
